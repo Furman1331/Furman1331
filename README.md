@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I'm Michał from Poland, and I content of Development. I really enjoy lerining new languages and frameworks like React, NestJS and Flutter. I also enjoy creating some project just for fun in lua, python and design in general. You can also check out my twitter at https://twitter.com/Furman133
+I'm Michał from Poland, and I content of Development. I really enjoy lerining new languages and frameworks like React, NestJS, VueJS. 
+I also creating some project just for fun in python or lua.
+
+Right now working as Frontend Developer with Typescript version of Vue in Warsaw.
+
+You can also check out my twitter at https://twitter.com/Furman133
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Furman1331)](https://github.com/anuraghazra/github-readme-stats)
 
